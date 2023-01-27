@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![React Shopping Cart Preview]https://res.cloudinary.com/dd8wdqyeb/image/upload/v1674829528/recording-2023-01-27-11-21-32_kmase1.gif
+
+
 ## Available Scripts
 
 In the project directory, you can run:
